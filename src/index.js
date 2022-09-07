@@ -20,7 +20,7 @@ class Card extends React.Component {
                     <h2 className="card__title">Render Props!</h2>
                     <p className="card__text">I was build with a two class components. A wrapper that handles state and state changing functions and a child that uses that functionality.</p>
                     <label htmlFor="darkMode">
-                        <input type="checkbox" id="darkMode" onInput={this.handleInput} />Dark Mode
+                        <input type="checkbox" id="darkMode" onInput={this.handleInput} />Dark Mode 1
                     </label>
                 </div>
             </div>
